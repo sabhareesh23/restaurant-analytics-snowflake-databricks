@@ -1,0 +1,33 @@
+AI Prompts Used — Restaurant Analytics Project
+===============================================
+
+Dataset
+-------
+Kaggle: https://www.kaggle.com/datasets/vainero/restaurants-customers-orders-dataset
+
+
+Prompts
+-------
+
+Project Planning:
+"Build an end-to-end restaurant analytics project using Snowflake for storage, Databricks for pipeline, and a BI tool for dashboards."
+
+Snowflake Setup:
+"Create Snowflake tables for restaurants and members. Load CSV data from Kaggle into Snowflake using COPY INTO."
+
+Databricks Pipeline:
+"Write a PySpark script to connect Databricks to Snowflake, read the restaurants and members tables, clean the data, and write transformed results back to Snowflake."
+
+Data Transformation:
+"Calculate total revenue, average order value per restaurant, member lifetime expense, and monthly spending ratio using PySpark."
+
+SQL Analytics:
+"Write Snowflake SQL queries to find top 10 restaurants by revenue, revenue by city, revenue by restaurant type, and members with lowest spending ratio."
+
+Documentation:
+"Write a README for my restaurant analytics project using Snowflake and Databricks."
+
+
+Tech Stack
+----------
+Snowflake | Databricks | PySpark | SQL | Metabase | GitHub
